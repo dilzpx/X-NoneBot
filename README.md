@@ -42,7 +42,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/X-NoneTeam/X-NoneBot
+git clone https://github.com/dilzpx/X-NoneBot
 cd X-NoneBot
 npm install
 npm start

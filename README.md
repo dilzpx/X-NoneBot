@@ -52,7 +52,7 @@ npm start
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/X-NoneTeam/X-NoneBot
+git clone https://github.com/dilzpx/X-NoneBot
 cd X-NoneBot
 npm install
 npm start
@@ -102,7 +102,7 @@ webpmux -version
 - [X-NoneBot](https://wa.me/6285867933269)
 
 # Bug Report
-- [Developer](https://wa.me/62895379169488)
+- [Developer](https://wa.me/6281380448281)
 
 # Features
 - Cek [disini](https://github.com/X-NoneTeam/X-NoneBot/blob/main/message/help.js)
